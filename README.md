@@ -1,14 +1,16 @@
 # EasySewa — E-Commerce Booking App
 
+<h1 align="center">🏡 EasySewa — E-Commerce Booking App</h1>
+
 <p align="center">
   <em>A mobile UI/UX design concept for discovering and booking home and personal care services at your doorstep.</em>
 </p>
 
 <p align="center">
   <img alt="Figma" src="https://img.shields.io/badge/Design-Figma-purple?logo=figma&logoColor=white">
-  <img alt="Project Type" src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-blue">
+  <img alt="UI/UX" src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-blue">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Mobile%20UI-green">
-  <img alt="Design System" src="https://img.shields.io/badge/Design-Components-orange">
+  <img alt="Components" src="https://img.shields.io/badge/Design-Components-orange">
   <img alt="Status" src="https://img.shields.io/badge/Status-Design%20Prototype-success">
 </p>
 
