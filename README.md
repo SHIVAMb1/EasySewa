@@ -1,4 +1,4 @@
-#  EasySewa — On-Demand Home Services Booking App
+#  EasySewa — E-Commerce Booking App
 
 <p align="center">
   <em>A mobile UI/UX design concept for discovering and booking home and personal care services at your doorstep.</em>
