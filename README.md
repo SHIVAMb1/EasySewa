@@ -1,6 +1,4 @@
-# EasySewa — E-Commerce Booking App
-
-<h1 align="center">🏡 EasySewa — E-Commerce Booking App</h1>
+<h1 align="center"> EasySewa — E-Commerce Booking App</h1>
 
 <p align="center">
   <em>A mobile UI/UX design concept for discovering and booking home and personal care services at your doorstep.</em>
